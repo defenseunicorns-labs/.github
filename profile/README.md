@@ -1,7 +1,6 @@
-# Defense Unicorns Labs
+<img src="./assets/defense_unicorns_wordmark.svg" width="600px" height="170px" style="display: block; margin-left: auto; margin-right: auto;" />
 
-<img src="./assets/defense_unicorns_stacked_logo.svg" width="600px" height="375" />
-
+## Defense Unicorns Labs
 At Defense Unicorns, we accelerate software deployment with UDS—our secure,
 highly portable platform, built to solve the unique challenges of delivering to
 disconnected and infrequently connected environments for defense and enterprise
