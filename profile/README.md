@@ -1,4 +1,4 @@
-<img src="./assets/defense_unicorns_wordmark.svg" width="600px" height="170px" style="display: block; margin-left: auto; margin-right: auto;" />
+<img src="./assets/defense_unicorns_wordmark.png" width="600px" height="170px" style="display: block; margin-left: auto; margin-right: auto;" />
 
 ## Defense Unicorns Labs
 At Defense Unicorns, we accelerate software deployment with UDS—our secure,
